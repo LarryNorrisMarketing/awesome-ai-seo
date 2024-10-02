@@ -34,7 +34,7 @@ This list features AI tools that cover a wide range of SEO needs, including on-p
 - [SEO.ai](https://seo.ai/) - Utilizes AI for keyword research, content optimization, and enhancing SEO strategies .
 - [SEOWriting.ai](https://seowriting.ai/) - AI writing tool for SEO-optimized articles, capable of generating content in multiple languages 
 - [Winston AI](https://winston.ai/) - Detects and prevents AI-generated content fraud, ensuring authenticity and integrity 
-- [DALL·E](https://www.openai.com/dall-e-3/) - AI system for creating realistic images and art from natural language descriptions 
+- [DALL·E](https://www.openai.com/dall-e-3/) - AI system for creating realistic images and art from natural language descriptions
 
 
 ## Content Optimization
@@ -45,6 +45,7 @@ This list features AI tools that cover a wide range of SEO needs, including on-p
 - [Frase](https://www.frase.io/) - AI tool for content research and optimization.
 - [NeuronWriter](https://neuronwriter.com/) - Combines AI content creation with NLP and competitor insights to improve search rankings
 - [Jasper](https://www.jasper.ai/) - AI writing assistant that creates SEO-optimized content across various formats
+- [RedTools- Content Brief Tool](https://app.redtools.io/pages/content-brief-tool.html)- AI tool for creating content briefs based on top-ranking content. 
 
 ## Keyword Research
 
@@ -53,6 +54,7 @@ This list features AI tools that cover a wide range of SEO needs, including on-p
 - [Moz Keyword Explorer](https://moz.com/explorer) - AI-powered keyword research tool for finding and prioritizing the best keywords.
 - [KeywordTool.io](https://keywordtool.io/) - AI-driven keyword research tool for discovering keywords from various search engines.
 - [RankIQ](https://www.rankiq.com/) - Provides valuable keyword insights and analysis to improve website visibility
+- [RedTools- Research Assistant Tool](https://app.redtools.io/pages/research-assistant.html)- Provides a comprehensive view of a target domain and competitor domains keywords with a keywords to target list 
 
 ## SEO Auditing
 
